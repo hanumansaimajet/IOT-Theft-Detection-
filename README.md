@@ -53,6 +53,6 @@ Now click on that and search for SMS and select ClickSend SMS. This feature will
 And finally, click the Create Action Button.
 ## Whenever a movement is detected, the Alarm will turn on.
 
-![](image.png)
+![](image.jpg)
 
 
